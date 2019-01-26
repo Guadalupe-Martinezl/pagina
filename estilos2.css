@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+header{
+  width: auto;
+  height: 50px;
+  background-color: black;
+}
+
+#check{
+  display: none;
+}
+
+.icon-menu{
+
+}
+
+.menu{
+  width: auto;
+  float: right;
+  margin-top: 3px;
+  margin-right: 10%;
+}
+
+.menu ul{
+  display: flex;
+}
+
+.menu li{
+  list-style: none;
+}
+
+.menu li a{
+  padding: 8px;
+  text-decoration: none;
+  color: #b7b7b7;
+  font-size: 20px;
+
+}
+
+.menu li a:hover{
+  color: white;
+}
