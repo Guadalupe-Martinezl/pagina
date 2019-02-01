@@ -5,6 +5,7 @@ Pagina de ventas de celulares y tablets
 
 _Contiene imagenes_
 
+https://guadalupe-martinezl.github.io/pagina/ **_En este link se puede ver la pagina_**
 
 >Espero sea de su agrado.
 
