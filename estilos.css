@@ -5,7 +5,7 @@
 }
 
 body{
- background-image: url("fondo3.jpg");
+ background-image: url("images/fondo3.jpg");
 
 }
 
@@ -57,9 +57,13 @@ body{
 
 .content-carrousel figure:nth-child(1){transform: rotateY(0deg)
 translateZ(300px);}
-.content-carrousel figure:nth-child(2){transform: rotateY(80deg)
+.content-carrousel figure:nth-child(2){transform: rotateY(100deg)
 translateZ(300px);}
 .content-carrousel figure:nth-child(3){transform: rotateY(180deg)
+translateZ(300px);}
+.content-carrousel figure:nth-child(3){transform: rotateY(200deg)
+translateZ(300px);}
+.content-carrousel figure:nth-child(4){transform: rotateY(250deg)
 translateZ(300px);}
 
 
