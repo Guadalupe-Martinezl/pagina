@@ -1,7 +1,7 @@
 # Pagina
 Pagina de ventas de celulares y tablets
 
-**Esta basada en HTML5 Y CSS curso**
+**Esta basada en HTML5 Y CSS **
 
 _Contiene imagenes_
 
