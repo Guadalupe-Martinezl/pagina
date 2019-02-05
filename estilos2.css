@@ -11,6 +11,22 @@ header{
   background-color: black;
 }
 
+h1{
+text-align: center
+}
+
+h3{
+text-align: center
+}
+
+p{
+    color: #b7b7b7;
+}
+
+em{
+    color: #b7b7b7;
+}
+
 #check{
   display: none;
 }
@@ -44,4 +60,12 @@ header{
 
 .menu li a:hover{
   color: white;
+}
+
+#titulo {
+  margin-top: 350px;
+}
+
+#conocenos {
+  margin-top: 50px;
 }
