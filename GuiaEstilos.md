@@ -12,7 +12,7 @@
  ### Promociones
 
  > La pagina de promociones cuenta con tarjetas las cuales incluyen imagen del producto y una breve
- descripcion sobre este.
+ descripción sobre cada producto.
 
 ![Promociones] (/images/Captura2.png)
 
