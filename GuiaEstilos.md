@@ -30,3 +30,4 @@ H1: Black
 color: White
 
 > Los colores fijados tienen contraste con el fondo por lo que es facil apreciarlo
+  con el fondo negro.
